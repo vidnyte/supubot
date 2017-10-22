@@ -1,0 +1,21 @@
+{
+  "name": "supu",
+  "version": "1.0.0",
+  "description": "Suomi Puhuu -Twitter Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bot",
+    "twitter"
+  ],
+  "author": "SuPuBot",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "twit": "^2.2.9"
+  }
+}
