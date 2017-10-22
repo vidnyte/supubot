@@ -15,7 +15,7 @@ The bot searches 50 most recent Finnish tweets and gets all the hashtags include
 Input your own MongoDB URI to config.js and your own Twitter credentials to twitterConfig.js.
 
 # Licence 
-MIT-licence
+MIT-license
 
 ## Thanks
 Based on tutorials by Aman Mittal
